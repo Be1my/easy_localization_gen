@@ -1,0 +1,152 @@
+{
+  "home": {
+    "title": "Home",
+    "forYou": "ForYou"
+  },
+  "saveToList": {
+    "title": "Save to",
+    "done": "Done",
+    "create": "Create New List..."
+  },
+  "errorMessage": {
+    "connectionTimeout": "Connection Timeout",
+    "sendTimeout": "Send Timeout",
+    "receiveTimeout": "Receive Timeout",
+    "cancel": "Request Cancelled",
+    "badCertificate": "Bad Certificate",
+    "connectionError": "Connection Error",
+    "badRequest": "Bad Request",
+    "notFound": "Not Found",
+    "unauthorized": "Unauthorized",
+    "forbidden": "Forbidden",
+    "internalServerError": "Internal Server Error",
+    "unknown": "An unknown error occurred"
+  },
+  "reader": {
+    "duration": {
+      "minutes": "{} min"
+    },
+    "loadPrev": {
+      "scroll": "Scroll down to load previous chapter",
+      "release": "Release to load previous chapter"
+    },
+    "loadNext": {
+      "scroll": "Scroll up to load next chapter",
+      "release": "Release to load next chapter"
+    },
+    "end": {
+      "alsoLike": "You may also like",
+      "title": "End",
+      "description": "Seems like you've reached the end of the story.",
+      "goBack": "Go back"
+    },
+    "autoRead": {
+      "enable": "Enable Auto Read",
+      "disable": "Exit Auto Read"
+    },
+    "settings": {
+      "minFontSizeNotice": "Font size is too small",
+      "maxFontSizeNotice": "Font size is too large",
+      "minFontHeightNotice": "Line height is too small",
+      "maxFontHeightNotice": "Line height is too large"
+    }
+  },
+  "feed": {
+    "more": {
+      "showLess": "Show less like this",
+      "save": "Save",
+      "share": "Share",
+      "report": "Report"
+    }
+  },
+  "purchase": {
+    "restore": "Restore Purchase",
+    "choosePlan": "Choose your plan"
+  },
+  "login": {
+    "title": "Continue to sign up for free",
+    "apple": "Continue with Apple",
+    "google": "Continue with Google",
+    "facebook": "Continue with Facebook",
+    "notice": "By continuing, you agree to Storyfy's {terms} and {privacy}.",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy"
+  },
+  "removeNotice": {
+    "title": "Got it, we'll recommend fewer stories like this",
+    "description": "We'll show you fewer stories like this in the future. And you can additionally take any of the following actions below.",
+    "mute": {
+      "title": "Mute Similar Stories",
+      "description": "Mute stories with similar tags"
+    },
+    "block": {
+      "title": "Report This Story"
+    },
+    "done": "Done",
+    "undo": "Undo"
+  },
+  "profile": {
+    "title": "Profile",
+    "uid": "UID: {}",
+    "premium": {
+      "title": "Storyfy Premium",
+      "privilege": {
+        "first": "Unlimited access to all stories"
+      },
+      "upgrade": "Upgrade"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "premium": "Become a Premium Member",
+    "chat": "Chat with Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rate": "Rate the App",
+    "rateIOS": "Rate on App Store",
+    "rateAndroid": "Rate on Play Store",
+    "clearCache": "Clear Cache",
+    "signOut": "Sign Out",
+    "deleteAccount": {
+      "title": "Delete Account",
+      "message": "Deleting your account will permanently remove all your data. This action cannot be undone. Are you sure you want to proceed?",
+      "okLabel": "Confirm Deletion",
+      "cancelLabel": "Cancel"
+    }
+  },
+  "favorites": {
+    "title": "Favorites"
+  },
+  "time": {
+    "secondsAgo": "{} seconds ago",
+    "minutesAgo": "{} minutes ago",
+    "hoursAgo": "{} hours ago",
+    "daysAgo": "{} days ago"
+  },
+  "library": {
+    "title": "Your library",
+    "readingList": "Reading List",
+    "createList": "New list",
+    "yourLists": {
+      "title": "Your lists",
+      "stories": "{} stories"
+    },
+    "delete": {
+      "title": "Select All",
+      "btn": "Delete"
+    },
+    "readingHistory": {
+      "title": "Reading history",
+      "clear": {
+        "title": "You can clear your reading history for a fresh start.",
+        "buttonText": "Clear history",
+        "button": {
+          "title": "Clear Reading History",
+          "message": "The stories that are cleared will not be recoverable.",
+          "cancel": "Cancel",
+          "confirm": "Clear"
+        }
+      }
+    }
+  }
+}

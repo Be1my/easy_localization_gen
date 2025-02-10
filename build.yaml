@@ -1,0 +1,12 @@
+builders:
+  translation_builder:
+    import: "package:my_translation_builder/builder.dart"
+    builder_factories: ["aggregateTranslationBuilder"]
+    build_extensions:
+      "pubspec.yaml": ["lib/gen/translations.gen.dart"]
+    auto_apply: root_package
+    build_to: source
+    defaults:
+      options:
+        # 用户可在这里指定 JSON 文件所在的目录，默认值为 "assets/translations/"
+        input: "assets/translations/"
